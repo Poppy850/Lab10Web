@@ -12,6 +12,8 @@ Buat file baru dengan nama form.php
 Buat file baru dengan nama form_input.php
 ![ss form input](https://user-images.githubusercontent.com/85287196/121758890-28221100-cad8-11eb-96d7-8ca3ca6be628.png)
 
+![isi input](https://user-images.githubusercontent.com/85287196/121758956-720af700-cad8-11eb-8047-09b45f82de7d.png)
+
 
 
 
